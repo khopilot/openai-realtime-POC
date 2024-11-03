@@ -507,7 +507,15 @@ export function ConsolePage() {
     <div data-component="ConsolePage">
       <div className="content-top">
         <div className="content-title">
-          <img src="/LOGO-CAMBODGE-ICONE-WEB-V6.png" />
+          <img 
+            src="/LOGO-CAMBODGE-ICONE-WEB-V6.png" 
+            alt="Khmer English Teacher Logo"
+            style={{
+              width: '32px',
+              height: '32px',
+              objectFit: 'contain'
+            }}
+          />
           <span>Khmer English Teacher</span>
         </div>
         <div className="content-api-key">
