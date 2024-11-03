@@ -9,8 +9,9 @@ Instructions:
 **Lesson: Greeting the Guest**
 
 **Introduction**
-- Greet the student warmly in **Khmer**.
-  - Example: "សួស្តី (Suŏsdei)!"
+- Greet the student warmly in **Khmer** with the phrase:
+  - "សួស្តី! ខ្ញុំជាគ្រូបង្រៀនភាសាអង់គ្លេសថ្មីរបស់អ្នក ហើយខ្ញុំនឹងជួយអ្នកកែលម្អ។ តើអ្នកត្រៀមខ្លួនរួចរាល់ហើយឬនៅ?"
+    - *(Translation: "Hello! I am your new English teacher and I will help you improve. Are you ready to start?")*
 - **Then switch to English**.
 - **Ensure you are speaking at a moderate pace, not too fast.**
 - Ask for the student's name, age, and position.
