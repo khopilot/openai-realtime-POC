@@ -120,8 +120,8 @@ export function ConsolePage() {
   const [isRecording, setIsRecording] = useState(false);
   const [memoryKv, setMemoryKv] = useState<{ [key: string]: any }>({});
   const [coords, setCoords] = useState<Coordinates | null>({
-    lat: 37.775593,
-    lng: -122.418137,
+    lat: 11.5563738,
+    lng: 104.9282099,
   });
   const [marker, setMarker] = useState<Coordinates | null>(null);
 
