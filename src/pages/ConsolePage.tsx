@@ -150,7 +150,7 @@ export function ConsolePage() {
    * When you click the API key
    */
   const resetAPIKey = useCallback(() => {
-    const apiKey = prompt('OpenAI API Key');
+    const apiKey = prompt('Key');
     if (apiKey !== null) {
       localStorage.clear();
       localStorage.setItem('tmp::voice_api_key', apiKey);
@@ -524,7 +524,7 @@ export function ConsolePage() {
               icon={Edit}
               iconPosition="end"
               buttonStyle="flush"
-              label={`api key: ${apiKey.slice(0, 3)}...`}
+              label={`key: ${apiKey.slice(0, 3)}...`}
               onClick={() => resetAPIKey()}
             />
           )}
